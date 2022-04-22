@@ -19,11 +19,16 @@
         "drupal/core-composer-scaffold": "^9",
         "drupal/core-project-message": "^9",
         "drupal/core-recommended": "^9",
+<<<<<<< HEAD
         "drupal/devel": "^4.1",
         "drupal/module_builder": "^3.22",
         "drupal/openapi": "^2.0",
         "drupal/openapi_jsonapi": "^3.0",
         "drupal/openapi_rest": "^2.0@RC",
+=======
+        "drupal/openapi": "^2.0",
+        "drupal/openapi_jsonapi": "^3.0",
+>>>>>>> 5c2259e50a713185dc26a5585b56aeffa48d795e
         "drupal/openapi_ui": "^1.0@RC",
         "drupal/openapi_ui_swagger": "^1.0@RC",
         "drupal/restui": "^1.20",
@@ -71,6 +76,7 @@
             "web/themes/custom/{$name}": [
                 "type:drupal-custom-theme"
             ]
+            
         },
         "drupal-core-project-message": {
             "include-keys": [
