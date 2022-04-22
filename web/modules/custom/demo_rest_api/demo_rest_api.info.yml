@@ -1,0 +1,6 @@
+name: Demo REST API
+type: module
+core_version_requirement: ^8.8 || ^9.0
+description: Module for implementing Custom Rest Service.
+package: Custom
+
